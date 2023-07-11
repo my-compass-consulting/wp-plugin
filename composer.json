@@ -1,0 +1,17 @@
+{
+    "name": "my-compass-consulting/wp-plugin",
+    "description": "WordPress Plugin Boilerplate",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "MyCompassConsulting\\WpPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xopherdeep",
+            "email": "contact@midnightnerd.com"
+        }
+    ],
+    "require": {}
+}
